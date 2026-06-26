@@ -1,2 +1,2 @@
-# ProFixNAND
-profixnand your way to victory
+# ProFix3DS
+profix3ds your way to victory
